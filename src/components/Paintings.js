@@ -1,5 +1,13 @@
 export default function Paintings(props) {
-  const { key, imageUrl, title, price, authorTag, authorUrl, quantity } = props;
+  const {
+    // key,
+    imageUrl,
+    title,
+    price,
+    authorTag,
+    authorUrl,
+    // quantity,
+  } = props;
 
   return (
     <div>
